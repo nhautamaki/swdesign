@@ -1,9 +1,29 @@
 # Software Design - Group assignment
 
-Progress: 
-Final submission finished as of 1.12.2024
-Mid-term submission finished as of 27.10.2024
-Prototype finished as of 29.9.2024
+## Project Members
+
+- Niilo Hautamäki
+- Joni Hämäläinen
+- Max Jauhiainen
+- Tenho Laakkio
+
+## My responsibilities
+
+- Backend:
+  - Handling of Nominatim API
+  - Creation of Place-objects
+  - Managing & caching of coordinates and sending them to frontend
+- Frontend:
+  - Filter by school type
+  - Functionality for favourite marking and storing favourites as cookies
+  - Search bar for schools
+  - Miscellaneous improvements for the UI and user experience
+
+## Progress
+
+- Final submission finished as of 1.12.2024
+- Mid-term submission finished as of 27.10.2024
+- Prototype finished as of 29.9.2024
 
 
 ## Overview
